@@ -1,3 +1,3 @@
 # austro
 
-Matriz para la Cristina de Austrolebias.
+Matriz  de Austrolebias para la Cristina.
